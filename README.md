@@ -1,12 +1,8 @@
 # Teguh Bayu Pratama
-<h1 align="center">Hi People, I'm Bayu</h1>
-<h3 align="center">A newbie programmer from Indonesia</h3>
-
-- 🌱 I’m currently learning **Javascript/Typescript, AWS**
+<h1 align="center">Hi! I'm Bayu</h1>
+<h3 align="center">A programmer from Indonesia</h3>
 
 - 📫 How to reach me **teguhbayupratama@gmail.com**
-
-- ⚡ Fun fact **My hobby is cinematography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
